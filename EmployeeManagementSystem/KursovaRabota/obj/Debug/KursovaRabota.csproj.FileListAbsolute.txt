@@ -1,0 +1,126 @@
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.AssemblyReference.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.StartLoad.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.StartForm.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.AdminInfo.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.AddEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.ChangeData.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.RemoveEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.ChangeSalary.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.Report.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\bin\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\bin\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.AssemblyReference.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.AddEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.AdminInfo.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.ChangeData.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.ChangeSalary.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.StartLoad.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.RemoveEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.Report.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.StartForm.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - Copy\KursovaRabota\obj\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\bin\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\bin\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.csproj.AssemblyReference.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.AddEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.AdminInfo.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.ChangeData.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.ChangeSalary.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.StartLoad.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.RemoveEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.Report.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.StartForm.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2\KursovaRabota\obj\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\bin\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\bin\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.AssemblyReference.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.AddEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.AdminInfo.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.ChangeData.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.ChangeSalary.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.StartLoad.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.RemoveEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.Report.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.StartForm.resources
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\PY\gpi\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\bin\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\bin\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.AssemblyReference.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.AddEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.AdminInfo.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.ChangeData.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.ChangeSalary.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.StartLoad.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.RemoveEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.Report.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.StartForm.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota - 2 - Copy\KursovaRabota\obj\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.AssemblyReference.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.AddEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.AdminInfo.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.ChangeData.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.ChangeSalary.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.StartLoad.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.RemoveEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.Report.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.StartForm.resources
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\bin\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\bin\Debug\KursovaRabota.pdb
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.csproj.AssemblyReference.cache
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.AddEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.AdminInfo.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.ChangeData.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.ChangeSalary.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.StartLoad.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.RemoveEmployee.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.Report.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.StartForm.resources
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.exe
+C:\Users\magie\OneDrive\Работен плот\EmployeeManagementSystem\KursovaRabota\obj\Debug\KursovaRabota.pdb
